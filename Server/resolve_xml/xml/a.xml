@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<File_Info>
+	<Data_Swap>
+		<entry File_Name="abc">
+			<Finall_Time>2018/1/1</Finall_Time>
+			<File_mode>1</File_mode>
+			<File_Size>1232</File_Size>
+		</entry>
+		<entry File_Name="abc">
+			<Finall_Time>2018/1/1</Finall_Time>
+			<File_mode>1</File_mode>
+			<File_Size>1232</File_Size>
+		</entry>
+		<entry File_Name="abc">
+			<Finall_Time>2018/1/1</Finall_Time>
+			<File_mode>1</File_mode>
+			<File_Size>1232</File_Size>
+		</entry>
+	</Data_Swap>
+</File_Info>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<File_Info>
+    <Data_Swap>
+        <entry File_Name="test">
+            <Finall_Time>1234155555</Finall_Time>
+            <File_mode>0</File_mode>
+			<File_Size>500</File_Size>
+        </entry>
+        <entry File_Name="test.c">
+            <Finall_Time>1234155555</Finall_Time>
+            <File_mode>1</File_mode>
+			<File_Size>400</File_Size>
+        </entry>
+    </Data_Swap>
+    <Com_File>
+        <entry Usr_name="18086031491">
+            <com>0</com>
+            <Path>/18086031491</Path>
+        </entry>
+        <entry Usr_name="18086031491">
+            <com>1</com>
+            <Path>/18086031491/test</Path>
+        </entry>
+    </Com_File>
+</File_Info>
